@@ -23,7 +23,7 @@
           "size": {
             "field": "mag",
             "type": "quantitative",
-            "title": "Magnitude (Richter scale)",
+            "title": "Richter scale",
             "scale": {"domain": [4, 8]}
           },
           "color": {
