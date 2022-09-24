@@ -26,9 +26,8 @@
             "title": "Magnitude"
           },
           "color": {
-            "field": "depth",
+            "field": "mag",
             "type": "quantitative",
-            "title": "Depth in km",
             "scale": {"scheme": "redyellowgreen", "reverse": true}
           }
         }
