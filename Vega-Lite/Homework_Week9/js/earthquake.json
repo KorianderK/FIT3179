@@ -28,7 +28,7 @@
           "color": {
             "field": "mag",
             "type": "quantitative",
-            "scale": {"scheme": "reds"}
+            "scale": {"scheme": "redyellowgreen", "reverse": true}
           }
         }
       }
