@@ -28,7 +28,7 @@
           "color": {
             "field": "depth",
             "type": "quantitative",
-            "scale": {"scheme": "redyellowgreen", "reverse": true}
+            "scale": {"scheme": "reds"}
           }
         }
       }
