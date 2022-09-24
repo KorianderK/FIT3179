@@ -5,9 +5,9 @@
 	right: 100px;
 	/*height: 1000px;
 	width: 800px;*/
-	body {
-		margin: 0;
-		background: Cyan;
-		text-align: center;
-	}
+}
+body {
+    margin: 0;
+    background: Cyan;
+    text-align: center;
 }
