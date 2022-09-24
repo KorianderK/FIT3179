@@ -3,11 +3,9 @@
 	bottom: 100px; 
 	left: 100px;
 	right: 100px;
+	background: LightBlue;
+	text-align: center;
 	/*height: 1000px;
 	width: 800px;*/
 }
-body {
-    margin: 0;
-    background: Cyan;
-    text-align: center;
-}
+
