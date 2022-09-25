@@ -1,36 +1,43 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 1200,
-    "height": 800,
-    "title": "Earthquakes of Magnitude >4 (Oct 4-10, 2022)",
-    "projection": {"type": "equalEarth"},
-    "layer": [
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Homework_Week9/js/ne_110m_admin_0_countries.json",
-          "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-        },
-        "mark": {"type": "geoshape", "fill": "lightgoldenrodyellow", "stroke": "black"}
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 1200,
+  "height": 800,
+  "title": "Earthquakes of Magnitude >4 (Oct 4-10, 2022)",
+  "projection": {"type": "equalEarth"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Homework_Week9/js/countries.json",
+        "format": {"type": "topojson", "feature": "countries"}
       },
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Homework_Week9/data/earthquake_data.csv"
+      "mark": {"type": "geoshape", "fill": "lightgoldenrodyellow", "stroke": "black"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/FIT3179/main/Vega-Lite/Homework_Week9/js/oceans.json",
+        "format": {"type": "topojson", "feature": "oceans"}
+      },
+      "mark": {"type": "geoshape", "fill": "skyblue"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Homework_Week9/data/earthquake_data.csv"
+      },
+      "mark": {"type": "circle", "opacity": 0.8, "tooltip": {"content": "data"}},
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "size": {
+          "field": "mag",
+          "type": "quantitative",
+          "title": "Magnitude"
         },
-        "mark": {"type": "circle", "opacity": 0.8, "tooltip": {"content": "data"}},
-        "encoding": {
-          "longitude": {"field": "longitude", "type": "quantitative"},
-          "latitude": {"field": "latitude", "type": "quantitative"},
-          "size": {
-            "field": "mag",
-            "type": "quantitative",
-            "title": "Magnitude"
-          },
-          "color": {
-            "field": "depth",
-            "type": "quantitative",
-            "scale": {"scheme": "reds"}
-          }
+        "color": {
+          "field": "depth",
+          "type": "quantitative",
+          "scale": {"scheme": "reds"}
         }
       }
-    ]
-  }
+    }
+  ]
+}
