@@ -18,7 +18,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/FIT3179/main/Vega-Lite/Homework_Week9/js/oceans.json",
+        "url": "https://raw.githubusercontent.com/KorianderL/FIT3179/main/Vega-Lite/Homework_Week9/js/oceans.json",
         "format": {"type": "topojson", "feature": "oceans"}
       },
       "mark": {"type": "geoshape", "fill": "skyblue"}
