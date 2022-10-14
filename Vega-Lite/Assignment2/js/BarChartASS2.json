@@ -1,0 +1,72 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Vega-Lite version of bar chart from https://observablehq.com/@d3/learn-d3-scales.",
+    "width": 800,
+    "height": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Assignment2/data/AQITop10BestWorst.csv"
+    },
+    "transform": [
+      {
+        "joinaggregate": [
+          {"op": "mean", "field": "Average", "as": "AverageRating"}
+        ]
+      }
+    ],
+    "encoding": {
+      "x": {
+        "field": "Total_AQI",
+        "type": "quantitative",
+        "title": "Total AQI"
+      },
+      "y": {
+        "field": "Country",
+        "type": "nominal",
+        "sort": [
+              "Iraq",
+              "India",
+              "Qatar",
+              "United Arab Emirates",
+              "Kuwait",
+              "Iran",
+              "Bahrain",
+              "Zambia",
+              "Ethiopia",
+              "China",
+              "French Guiana",
+              "Honduras",
+              "Cambodia",
+              "Grenada",
+              "Brunei",
+              "Venezuela",
+              "Bermuda",
+              "Puerto Rico",
+              "Cayman Islands",
+              "Guam"
+        ]
+      }
+    },
+    "layer": [
+      {
+        "mark": {"type": "bar"},
+        "encoding": {
+          "color": {
+            "value": "red"
+          }
+        }
+      },
+      {
+        "mark": {"type": "text", "align": "right", "xOffset": 26, "aria": false},
+        "encoding": {
+          "text": {
+            "field": "Total_AQI",
+            "type": "quantitative"
+          },
+          "tooltip": [
+            {"field": "Country"},
+            {"field": "Total_AQI"}
+          ]
+        }
+      }
+    ]
+  }
