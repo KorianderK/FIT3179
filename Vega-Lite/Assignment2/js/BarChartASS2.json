@@ -1,5 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Top 10 Lowest/ Highest AQI Values By Country -August 2022",
   "width": 600,
   "height": 400,
   "data": {
