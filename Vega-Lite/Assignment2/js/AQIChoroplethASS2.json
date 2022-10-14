@@ -3,12 +3,6 @@
   "title": "World Total AQI Values By Country -August 2022",
   "width": 800,
   "height": 400,
-  "params": [
-    {
-      "name": "date_selection",
-      
-    }
-  ],
   "data": {
     "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Homework_Week9/js/ne_110m_admin_0_countries.json",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
