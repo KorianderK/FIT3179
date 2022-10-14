@@ -52,16 +52,17 @@
           }
         }
       ],
-      "mark": {"type": "geoshape", "stroke": "cadetblue"},
+      "mark": {"type": "geoshape", "stroke": "darkslategrey"},
       "encoding": {
         "color": {
           "field": "Total_AQI",
           "title": "Legend",
           "type": "quantitative",
           "scale": {
+            "domain": [500,4000,8000],
             "type": "linear",
-            "scheme": "redyellowgreen",
-            "reverse": true
+            "scheme": "lighttealblue",
+            "reverse": false
           }
         },
         "tooltip": [
