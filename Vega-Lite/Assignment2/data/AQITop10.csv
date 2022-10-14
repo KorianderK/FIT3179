@@ -1,0 +1,320 @@
+Date,Country,Status,AQI_Value
+2022-08-01,Bahrain,Unhealthy,151
+2022-08-01,China,Unhealthy,156
+2022-08-01,Ethiopia,Unhealthy for Sensitive Groups,143
+2022-08-01,India,Unhealthy,159
+2022-08-01,Iran,Unhealthy for Sensitive Groups,126
+2022-08-01,Iraq,Unhealthy,161
+2022-08-01,Kuwait,Unhealthy for Sensitive Groups,145
+2022-08-01,Qatar,Unhealthy,183
+2022-08-01,United Arab Emirates,Unhealthy for Sensitive Groups,118
+2022-08-01,Zambia,Unhealthy for Sensitive Groups,102
+2022-08-02,Bahrain,Unhealthy for Sensitive Groups,142
+2022-08-02,China,Unhealthy,161
+2022-08-02,Ethiopia,Unhealthy for Sensitive Groups,117
+2022-08-02,India,Very Unhealthy,287
+2022-08-02,Iran,Very Unhealthy,210
+2022-08-02,Iraq,Unhealthy,181
+2022-08-02,Kuwait,Unhealthy for Sensitive Groups,123
+2022-08-02,Qatar,Unhealthy,183
+2022-08-02,United Arab Emirates,Unhealthy for Sensitive Groups,127
+2022-08-02,Zambia,Good,25
+2022-08-03,Bahrain,Unhealthy for Sensitive Groups,134
+2022-08-03,China,Unhealthy,155
+2022-08-03,Ethiopia,Unhealthy for Sensitive Groups,116
+2022-08-03,India,Very Unhealthy,213
+2022-08-03,Iran,Unhealthy for Sensitive Groups,138
+2022-08-03,Iraq,Unhealthy,178
+2022-08-03,Kuwait,Unhealthy for Sensitive Groups,106
+2022-08-03,Qatar,Unhealthy,183
+2022-08-03,United Arab Emirates,Unhealthy for Sensitive Groups,107
+2022-08-03,Zambia,Good,34
+2022-08-04,Bahrain,Unhealthy for Sensitive Groups,142
+2022-08-04,China,Unhealthy for Sensitive Groups,145
+2022-08-04,Ethiopia,Unhealthy,159
+2022-08-04,India,Unhealthy,180
+2022-08-04,Iran,Unhealthy for Sensitive Groups,136
+2022-08-04,Iraq,Unhealthy,180
+2022-08-04,Kuwait,Unhealthy,151
+2022-08-04,Qatar,Unhealthy,183
+2022-08-04,United Arab Emirates,Unhealthy for Sensitive Groups,133
+2022-08-04,Zambia,Unhealthy,160
+2022-08-05,Bahrain,Unhealthy,163
+2022-08-05,China,Unhealthy,164
+2022-08-05,Ethiopia,Unhealthy,160
+2022-08-05,India,Unhealthy,198
+2022-08-05,Iran,Unhealthy for Sensitive Groups,136
+2022-08-05,Iraq,Very Unhealthy,210
+2022-08-05,Kuwait,Unhealthy for Sensitive Groups,129
+2022-08-05,Qatar,Unhealthy,183
+2022-08-05,United Arab Emirates,Unhealthy for Sensitive Groups,135
+2022-08-05,Zambia,Unhealthy,154
+2022-08-06,Bahrain,Unhealthy,164
+2022-08-06,China,Unhealthy for Sensitive Groups,135
+2022-08-06,Ethiopia,Moderate,95
+2022-08-06,India,Very Unhealthy,216
+2022-08-06,Iran,Unhealthy for Sensitive Groups,137
+2022-08-06,Iraq,Unhealthy,178
+2022-08-06,Kuwait,Unhealthy for Sensitive Groups,140
+2022-08-06,Qatar,Unhealthy,183
+2022-08-06,United Arab Emirates,Unhealthy for Sensitive Groups,146
+2022-08-06,Zambia,Very Unhealthy,284
+2022-08-07,Bahrain,Unhealthy,168
+2022-08-07,China,Unhealthy,154
+2022-08-07,Ethiopia,Unhealthy for Sensitive Groups,104
+2022-08-07,India,Unhealthy,159
+2022-08-07,Iran,Unhealthy for Sensitive Groups,143
+2022-08-07,Iraq,Unhealthy,163
+2022-08-07,Kuwait,Unhealthy for Sensitive Groups,147
+2022-08-07,Qatar,Unhealthy,183
+2022-08-07,United Arab Emirates,Unhealthy for Sensitive Groups,132
+2022-08-07,Zambia,Unhealthy for Sensitive Groups,108
+2022-08-08,Bahrain,Unhealthy,156
+2022-08-08,China,Unhealthy for Sensitive Groups,119
+2022-08-08,Ethiopia,Unhealthy for Sensitive Groups,104
+2022-08-08,India,Hazardous,380
+2022-08-08,Iran,Unhealthy for Sensitive Groups,129
+2022-08-08,Iraq,Unhealthy,160
+2022-08-08,Kuwait,Unhealthy,160
+2022-08-08,Qatar,Unhealthy,183
+2022-08-08,United Arab Emirates,Unhealthy for Sensitive Groups,120
+2022-08-08,Zambia,Unhealthy,166
+2022-08-09,Bahrain,Unhealthy,157
+2022-08-09,China,Unhealthy for Sensitive Groups,114
+2022-08-09,Ethiopia,Unhealthy for Sensitive Groups,108
+2022-08-09,India,Unhealthy,156
+2022-08-09,Iran,Unhealthy,153
+2022-08-09,Iraq,Unhealthy,152
+2022-08-09,Kuwait,Very Unhealthy,273
+2022-08-09,Qatar,Unhealthy,183
+2022-08-09,United Arab Emirates,Moderate,99
+2022-08-09,Zambia,Unhealthy,169
+2022-08-10,Bahrain,Unhealthy for Sensitive Groups,132
+2022-08-10,China,Unhealthy,155
+2022-08-10,Ethiopia,Unhealthy,156
+2022-08-10,India,Unhealthy for Sensitive Groups,150
+2022-08-10,Iran,Very Unhealthy,255
+2022-08-10,Iraq,Very Unhealthy,226
+2022-08-10,Kuwait,Hazardous,407
+2022-08-10,Qatar,Unhealthy,183
+2022-08-10,United Arab Emirates,Moderate,100
+2022-08-10,Zambia,Unhealthy,157
+2022-08-11,Bahrain,Unhealthy,200
+2022-08-11,China,Unhealthy,167
+2022-08-11,Ethiopia,Moderate,70
+2022-08-11,India,Unhealthy for Sensitive Groups,124
+2022-08-11,Iran,Hazardous,308
+2022-08-11,Iraq,Unhealthy for Sensitive Groups,137
+2022-08-11,Kuwait,Hazardous,340
+2022-08-11,Qatar,Unhealthy,183
+2022-08-11,United Arab Emirates,Unhealthy for Sensitive Groups,136
+2022-08-11,Zambia,Unhealthy,152
+2022-08-12,Bahrain,Unhealthy,160
+2022-08-12,China,Unhealthy,154
+2022-08-12,Ethiopia,Unhealthy,160
+2022-08-12,India,Unhealthy,161
+2022-08-12,Iran,Very Unhealthy,240
+2022-08-12,Iraq,Unhealthy for Sensitive Groups,147
+2022-08-12,Kuwait,Unhealthy,174
+2022-08-12,Qatar,Unhealthy,183
+2022-08-12,United Arab Emirates,Unhealthy,176
+2022-08-12,Zambia,Unhealthy for Sensitive Groups,139
+2022-08-13,Bahrain,Unhealthy,169
+2022-08-13,China,Unhealthy,158
+2022-08-13,Ethiopia,Unhealthy,167
+2022-08-13,India,Very Unhealthy,234
+2022-08-13,Iran,Very Unhealthy,237
+2022-08-13,Iraq,Unhealthy for Sensitive Groups,132
+2022-08-13,Kuwait,Unhealthy,166
+2022-08-13,Qatar,Unhealthy,183
+2022-08-13,United Arab Emirates,Very Unhealthy,218
+2022-08-13,Zambia,Hazardous,343
+2022-08-14,Bahrain,Unhealthy,160
+2022-08-14,China,Unhealthy,154
+2022-08-14,Ethiopia,Moderate,100
+2022-08-14,India,Unhealthy,162
+2022-08-14,Iran,Unhealthy for Sensitive Groups,148
+2022-08-14,Iraq,Unhealthy for Sensitive Groups,129
+2022-08-14,Kuwait,Unhealthy,185
+2022-08-14,Qatar,Unhealthy,183
+2022-08-14,United Arab Emirates,Hazardous,862
+2022-08-14,Zambia,Hazardous,306
+2022-08-15,Bahrain,Unhealthy,159
+2022-08-15,China,Unhealthy for Sensitive Groups,138
+2022-08-15,Ethiopia,Unhealthy,157
+2022-08-15,India,Unhealthy for Sensitive Groups,149
+2022-08-15,Iran,Unhealthy,157
+2022-08-15,Iraq,Unhealthy,161
+2022-08-15,Kuwait,Unhealthy,164
+2022-08-15,Qatar,Unhealthy,183
+2022-08-15,United Arab Emirates,Hazardous,868
+2022-08-15,Zambia,Unhealthy,167
+2022-08-16,Bahrain,Unhealthy,160
+2022-08-16,China,Unhealthy for Sensitive Groups,144
+2022-08-16,Ethiopia,Unhealthy,196
+2022-08-16,India,Unhealthy,171
+2022-08-16,Iran,Unhealthy for Sensitive Groups,147
+2022-08-16,Iraq,Hazardous,590
+2022-08-16,Kuwait,Unhealthy,155
+2022-08-16,Qatar,Unhealthy,183
+2022-08-16,United Arab Emirates,Unhealthy for Sensitive Groups,123
+2022-08-16,Zambia,Unhealthy for Sensitive Groups,132
+2022-08-17,Bahrain,Unhealthy,158
+2022-08-17,China,Unhealthy for Sensitive Groups,142
+2022-08-17,Ethiopia,Unhealthy,168
+2022-08-17,India,Unhealthy,162
+2022-08-17,Iran,Unhealthy for Sensitive Groups,140
+2022-08-17,Iraq,Hazardous,399
+2022-08-17,Kuwait,Very Unhealthy,281
+2022-08-17,Qatar,Unhealthy,183
+2022-08-17,United Arab Emirates,Unhealthy for Sensitive Groups,125
+2022-08-17,Zambia,Unhealthy,193
+2022-08-18,Bahrain,Unhealthy,155
+2022-08-18,China,Unhealthy,161
+2022-08-18,Ethiopia,Hazardous,319
+2022-08-18,India,Unhealthy,170
+2022-08-18,Iran,Unhealthy for Sensitive Groups,146
+2022-08-18,Iraq,Unhealthy,180
+2022-08-18,Kuwait,Very Unhealthy,255
+2022-08-18,Qatar,Unhealthy,183
+2022-08-18,United Arab Emirates,Unhealthy for Sensitive Groups,116
+2022-08-18,Zambia,Unhealthy,180
+2022-08-19,Bahrain,Unhealthy,172
+2022-08-19,China,Unhealthy for Sensitive Groups,143
+2022-08-19,Ethiopia,Hazardous,317
+2022-08-19,India,Unhealthy,153
+2022-08-19,Iran,Unhealthy for Sensitive Groups,146
+2022-08-19,Iraq,Hazardous,422
+2022-08-19,Kuwait,Unhealthy,176
+2022-08-19,Qatar,Unhealthy,183
+2022-08-19,United Arab Emirates,Unhealthy for Sensitive Groups,130
+2022-08-19,Zambia,Very Unhealthy,223
+2022-08-20,Bahrain,Unhealthy,176
+2022-08-20,China,Unhealthy for Sensitive Groups,129
+2022-08-20,Ethiopia,Unhealthy for Sensitive Groups,129
+2022-08-20,India,Unhealthy,168
+2022-08-20,Iran,Unhealthy,152
+2022-08-20,Iraq,Hazardous,468
+2022-08-20,Kuwait,Unhealthy for Sensitive Groups,110
+2022-08-20,Qatar,Unhealthy,183
+2022-08-20,United Arab Emirates,Unhealthy for Sensitive Groups,109
+2022-08-20,Zambia,Unhealthy,163
+2022-08-21,Bahrain,Unhealthy,179
+2022-08-21,China,Unhealthy,153
+2022-08-21,Ethiopia,Unhealthy for Sensitive Groups,147
+2022-08-21,India,Unhealthy,162
+2022-08-21,Iran,Unhealthy,156
+2022-08-21,Iraq,Unhealthy,168
+2022-08-21,Kuwait,Unhealthy,156
+2022-08-21,Qatar,Unhealthy,183
+2022-08-21,United Arab Emirates,Unhealthy for Sensitive Groups,115
+2022-08-21,Zambia,Unhealthy for Sensitive Groups,137
+2022-08-22,Bahrain,Unhealthy,173
+2022-08-22,China,Unhealthy for Sensitive Groups,141
+2022-08-22,Ethiopia,Unhealthy,179
+2022-08-22,India,Unhealthy,181
+2022-08-22,Iran,Unhealthy for Sensitive Groups,146
+2022-08-22,Iraq,Unhealthy for Sensitive Groups,134
+2022-08-22,Kuwait,Unhealthy for Sensitive Groups,104
+2022-08-22,Qatar,Unhealthy,183
+2022-08-22,United Arab Emirates,Unhealthy for Sensitive Groups,149
+2022-08-22,Zambia,Unhealthy for Sensitive Groups,136
+2022-08-23,Bahrain,Unhealthy,172
+2022-08-23,China,Unhealthy for Sensitive Groups,142
+2022-08-23,Ethiopia,Unhealthy for Sensitive Groups,114
+2022-08-23,India,Unhealthy,174
+2022-08-23,Iran,Unhealthy for Sensitive Groups,145
+2022-08-23,Iraq,Unhealthy,159
+2022-08-23,Kuwait,Moderate,99
+2022-08-23,Qatar,Unhealthy,183
+2022-08-23,United Arab Emirates,Unhealthy for Sensitive Groups,130
+2022-08-23,Zambia,Moderate,65
+2022-08-23,Bahrain,Unhealthy,161
+2022-08-23,China,Unhealthy for Sensitive Groups,137
+2022-08-23,Ethiopia,Unhealthy,184
+2022-08-23,India,Unhealthy,159
+2022-08-23,Iran,Unhealthy,151
+2022-08-23,Iraq,Unhealthy for Sensitive Groups,129
+2022-08-23,Kuwait,Moderate,87
+2022-08-23,Qatar,Unhealthy,183
+2022-08-23,United Arab Emirates,Unhealthy for Sensitive Groups,114
+2022-08-23,Zambia,Moderate,96
+2022-08-24,Bahrain,Unhealthy,161
+2022-08-24,China,Unhealthy for Sensitive Groups,148
+2022-08-24,Ethiopia,Moderate,99
+2022-08-24,India,Unhealthy,167
+2022-08-24,Iran,Unhealthy,155
+2022-08-24,Iraq,Unhealthy for Sensitive Groups,107
+2022-08-24,Kuwait,Moderate,91
+2022-08-24,Qatar,Unhealthy,183
+2022-08-24,United Arab Emirates,Unhealthy for Sensitive Groups,108
+2022-08-24,Zambia,Unhealthy for Sensitive Groups,117
+2022-08-25,Bahrain,Unhealthy,161
+2022-08-25,China,Unhealthy,151
+2022-08-25,Ethiopia,Unhealthy,168
+2022-08-25,India,Unhealthy,172
+2022-08-25,Iran,Unhealthy for Sensitive Groups,144
+2022-08-25,Iraq,Unhealthy,165
+2022-08-25,Kuwait,Moderate,69
+2022-08-25,Qatar,Unhealthy,183
+2022-08-25,United Arab Emirates,Unhealthy for Sensitive Groups,119
+2022-08-25,Zambia,Moderate,98
+2022-08-26,Bahrain,Unhealthy,161
+2022-08-26,China,Unhealthy,162
+2022-08-26,Ethiopia,Unhealthy,165
+2022-08-26,India,Very Unhealthy,214
+2022-08-26,Iran,Unhealthy for Sensitive Groups,134
+2022-08-26,Iraq,Hazardous,370
+2022-08-26,Kuwait,Unhealthy for Sensitive Groups,125
+2022-08-26,Qatar,Unhealthy,183
+2022-08-26,United Arab Emirates,Unhealthy for Sensitive Groups,107
+2022-08-26,Zambia,Unhealthy for Sensitive Groups,131
+2022-08-27,Bahrain,Unhealthy,161
+2022-08-27,China,Unhealthy for Sensitive Groups,124
+2022-08-27,Ethiopia,Unhealthy for Sensitive Groups,142
+2022-08-27,India,Unhealthy,172
+2022-08-27,Iran,Unhealthy for Sensitive Groups,140
+2022-08-27,Iraq,Very Unhealthy,283
+2022-08-27,Kuwait,Unhealthy for Sensitive Groups,126
+2022-08-27,Qatar,Unhealthy,183
+2022-08-27,United Arab Emirates,Unhealthy for Sensitive Groups,110
+2022-08-27,Zambia,Unhealthy,169
+2022-08-28,Bahrain,Unhealthy,161
+2022-08-28,China,Unhealthy for Sensitive Groups,141
+2022-08-28,Ethiopia,Unhealthy for Sensitive Groups,124
+2022-08-28,India,Unhealthy,183
+2022-08-28,Iran,Unhealthy,160
+2022-08-28,Iraq,Unhealthy,173
+2022-08-28,Kuwait,Unhealthy for Sensitive Groups,146
+2022-08-28,Qatar,Unhealthy,183
+2022-08-28,United Arab Emirates,Moderate,97
+2022-08-28,Zambia,Unhealthy for Sensitive Groups,122
+2022-08-29,Bahrain,Unhealthy,161
+2022-08-29,China,Unhealthy,155
+2022-08-29,Ethiopia,Unhealthy,168
+2022-08-29,India,Unhealthy,179
+2022-08-29,Iran,Unhealthy for Sensitive Groups,149
+2022-08-29,Iraq,Unhealthy,161
+2022-08-29,Kuwait,Unhealthy for Sensitive Groups,149
+2022-08-29,Qatar,Unhealthy,183
+2022-08-29,United Arab Emirates,Moderate,95
+2022-08-29,Zambia,Unhealthy,151
+2022-08-30,Bahrain,Unhealthy,161
+2022-08-30,China,Unhealthy,158
+2022-08-30,Ethiopia,Very Unhealthy,205
+2022-08-30,India,Very Unhealthy,275
+2022-08-30,Iran,Unhealthy,162
+2022-08-30,Iraq,Unhealthy,164
+2022-08-30,Kuwait,Unhealthy for Sensitive Groups,144
+2022-08-30,Qatar,Unhealthy,183
+2022-08-30,United Arab Emirates,Unhealthy for Sensitive Groups,112
+2022-08-30,Zambia,Unhealthy,163
+2022-08-31,China,Unhealthy,159
+2022-08-31,Ethiopia,Very Unhealthy,250
+2022-08-31,India,Unhealthy,183
+2022-08-31,Iran,Unhealthy for Sensitive Groups,148
+2022-08-31,Iraq,Unhealthy,162
+2022-08-31,Kuwait,Unhealthy for Sensitive Groups,149
+2022-08-31,Qatar,Unhealthy,183
+2022-08-31,United Arab Emirates,Moderate,91
+2022-08-31,Zambia,Unhealthy for Sensitive Groups,138
