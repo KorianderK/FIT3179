@@ -7,15 +7,15 @@
     "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Homework_Week9/js/ne_110m_admin_0_countries.json",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
   },
-  "projection": {"type":"equalEarth"},
+  "projection": {"type": "equalEarth"},
   "layer": [
     {
       "data": {
         "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Homework_Week9/js/oceans.json",
         "format": {"type": "topojson", "feature": "oceans"}
       },
-      "mark":{"type": "geoshape", "fill": "skyblue"}
-      },
+      "mark": {"type": "geoshape", "fill": "skyblue"}
+    },
     {
       "transform": [
         {
@@ -30,21 +30,26 @@
       "transform": [
         {
           "lookup": "properties.NAME",
-          "from":{
-            "data":{
+          "from": {
+            "data": {
               "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Assignment2/data/AQITotal.csv"
             },
             "key": "Country",
             "fields": ["Total_AQI"]
           }
-          }
+        }
       ],
       "mark": {"type": "geoshape", "stroke": "cadetblue"},
       "encoding": {
-        "color":{
+        "color": {
           "field": "Total_AQI",
+          "title": "Legend",
           "type": "quantitative",
-          "scale": {"type": "linear", "scheme": "redyellowgreen", "reverse":true}
+          "scale": {
+            "type": "linear",
+            "scheme": "redyellowgreen",
+            "reverse": true
+          }
         },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},
