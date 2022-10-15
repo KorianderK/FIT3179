@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "World Total AQI Values By Country -August 2022",
   "width": 800,
-  "height": 500,
+  "height": 450,
   "padding": 10,
   "data": {
     "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Homework_Week9/js/ne_110m_admin_0_countries.json",
