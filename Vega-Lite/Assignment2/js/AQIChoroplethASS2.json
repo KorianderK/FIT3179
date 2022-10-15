@@ -4,6 +4,8 @@
   "width": 800,
   "height": 450,
   "padding": 10,
+  "background": "black",
+  "view": {"fill": "black"},
   "data": {
     "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Homework_Week9/js/ne_110m_admin_0_countries.json",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
