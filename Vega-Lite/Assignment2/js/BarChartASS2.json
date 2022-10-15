@@ -3,6 +3,7 @@
   "title": "Top 10 Lowest/ Highest AQI Values By Country -August 2022",
   "width": 800,
   "height": 400,
+  "padding": 10,
   "data": {
     "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Assignment2/data/AQITop10BestWorst.csv"
   },
