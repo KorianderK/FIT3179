@@ -1,38 +1,22 @@
 #world_map {
-	top:100px;
-	bottom: 100px; 
-	left: 100px;
-	right: 100px;
-    padding: 30;
-    margin: 50px;
+   	padding: 30;
+   	margin: 50px;
 	text-align: center;
 }
 #bar_chart{
-	top:100px;
-	bottom: 100px; 
-	left: 100px;
-	right: 100px;
-    padding: 30;
-    margin: 50px;
+        padding: 30;
+        margin: 50px;
 	text-align: center;
 }
 
 #line_chart {
-	top:100px;
-	bottom: 100px; 
-	left: 100px;
-	right: 100px;
-    padding: 30;
-    margin: 50px;
+        padding: 30;
+        margin: 50px;
 	text-align: center;
 }
 
 #line_chart2 {
-	top:100px;
-	bottom: 100px; 
-	left: 100px;
-	right: 100px;
-    padding: 30;
-    margin: 50px;
+        padding: 30;
+        margin: 50px;
 	text-align: center;
 }
