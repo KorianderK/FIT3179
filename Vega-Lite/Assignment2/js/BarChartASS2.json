@@ -47,7 +47,7 @@
       "mark": {"type": "bar", "size":3},
       "encoding": {
         "color": {
-          "value": "lightblue"
+          "value": "#3257A8"
         },
           "tooltip": [
             {"field": "Country"},
@@ -56,10 +56,10 @@
       }
     },
     {
-      "mark": {"type": "circle", "align": "right", "aria": false, "size": 50},
+      "mark": {"type": "circle", "align": "right", "aria": false, "size": 50, "opacity":1},
       "encoding": {
         "color": {
-          "value": "lightblue"}
+          "value": "#3257A8"}
       }
     },
     {
