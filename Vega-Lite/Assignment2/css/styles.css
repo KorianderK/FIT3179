@@ -3,7 +3,7 @@
 	bottom: 100px; 
 	left: 100px;
 	right: 100px;
-	background: LightBlue;
+    padding: 30;
 	text-align: center;
 }
 #bar_chart{
@@ -11,7 +11,7 @@
 	bottom: 100px; 
 	left: 100px;
 	right: 100px;
-	background: LightBlue;
+    padding: 30;
 	text-align: center;
 }
 
@@ -20,7 +20,7 @@
 	bottom: 100px; 
 	left: 100px;
 	right: 100px;
-	background: LightBlue;
+    padding: 30;
 	text-align: center;
 }
 
@@ -29,6 +29,6 @@
 	bottom: 100px; 
 	left: 100px;
 	right: 100px;
-	background: LightBlue;
+    padding: 30;
 	text-align: center;
 }
