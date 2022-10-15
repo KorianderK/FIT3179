@@ -1,0 +1,320 @@
+Date,Country,Status,AQI.Value
+2022-08-01,Bermuda,Good,19
+2022-08-01,Brunei,Good,14
+2022-08-01,Cambodia,Good,15
+2022-08-01,Cayman Islands,Good,13
+2022-08-01,French Guiana,Good,12
+2022-08-01,Grenada,Moderate,76
+2022-08-01,Guam,Good,6
+2022-08-01,Honduras,Good,6
+2022-08-01,Puerto Rico,Good,25
+2022-08-01,Venezuela,Good,3
+2022-08-02,Bermuda,Good,10
+2022-08-02,Brunei,Good,11
+2022-08-02,Cambodia,Good,15
+2022-08-02,Cayman Islands,Moderate,51
+2022-08-02,French Guiana,Good,11
+2022-08-02,Grenada,Good,23
+2022-08-02,Guam,Good,1
+2022-08-02,Honduras,Good,30
+2022-08-02,Puerto Rico,Good,21
+2022-08-02,Venezuela,Good,20
+2022-08-03,Bermuda,Good,15
+2022-08-03,Brunei,Good,10
+2022-08-03,Cambodia,Good,15
+2022-08-03,Cayman Islands,Good,23
+2022-08-03,French Guiana,Good,14
+2022-08-03,Grenada,Good,7
+2022-08-03,Guam,Good,2
+2022-08-03,Honduras,Good,26
+2022-08-03,Puerto Rico,Good,13
+2022-08-03,Venezuela,Good,3
+2022-08-04,Bermuda,Good,36
+2022-08-04,Brunei,Good,10
+2022-08-04,Cambodia,Good,15
+2022-08-04,Cayman Islands,Good,5
+2022-08-04,French Guiana,Good,14
+2022-08-04,Grenada,Good,22
+2022-08-04,Guam,Good,1
+2022-08-04,Honduras,Good,46
+2022-08-04,Puerto Rico,Good,15
+2022-08-04,Venezuela,Good,10
+2022-08-05,Bermuda,Good,8
+2022-08-05,Brunei,Good,10
+2022-08-05,Cambodia,Good,15
+2022-08-05,Cayman Islands,Good,5
+2022-08-05,French Guiana,Good,15
+2022-08-05,Grenada,Good,5
+2022-08-05,Guam,Good,2
+2022-08-05,Honduras,Good,22
+2022-08-05,Puerto Rico,Good,8
+2022-08-05,Venezuela,Good,1
+2022-08-06,Bermuda,Good,15
+2022-08-06,Brunei,Good,10
+2022-08-06,Cambodia,Good,15
+2022-08-06,Cayman Islands,Good,15
+2022-08-06,French Guiana,Good,14
+2022-08-06,Grenada,Good,4
+2022-08-06,Guam,Good,2
+2022-08-06,Honduras,Good,15
+2022-08-06,Puerto Rico,Good,10
+2022-08-06,Venezuela,Good,4
+2022-08-07,Bermuda,Good,5
+2022-08-07,Brunei,Good,15
+2022-08-07,Cambodia,Good,15
+2022-08-07,Cayman Islands,Good,1
+2022-08-07,French Guiana,Good,14
+2022-08-07,Grenada,Good,1
+2022-08-07,Guam,Good,2
+2022-08-07,Honduras,Good,5
+2022-08-07,Puerto Rico,Good,12
+2022-08-07,Venezuela,Good,19
+2022-08-08,Bermuda,Good,14
+2022-08-08,Brunei,Good,11
+2022-08-08,Cambodia,Good,15
+2022-08-08,Cayman Islands,Good,20
+2022-08-08,French Guiana,Good,15
+2022-08-08,Grenada,Good,8
+2022-08-08,Guam,Good,4
+2022-08-08,Honduras,Good,33
+2022-08-08,Puerto Rico,Good,14
+2022-08-08,Venezuela,Good,9
+2022-08-09,Bermuda,Good,10
+2022-08-09,Brunei,Good,13
+2022-08-09,Cambodia,Good,15
+2022-08-09,Cayman Islands,Good,22
+2022-08-09,French Guiana,Good,16
+2022-08-09,Grenada,Good,5
+2022-08-09,Guam,Good,1
+2022-08-09,Honduras,Good,10
+2022-08-09,Puerto Rico,Good,11
+2022-08-09,Venezuela,Good,7
+2022-08-10,Bermuda,Good,15
+2022-08-10,Brunei,Good,14
+2022-08-10,Cambodia,Good,15
+2022-08-10,Cayman Islands,Good,18
+2022-08-10,French Guiana,Good,16
+2022-08-10,Grenada,Good,5
+2022-08-10,Guam,Good,1
+2022-08-10,Honduras,Good,2
+2022-08-10,Puerto Rico,Good,10
+2022-08-10,Venezuela,Good,14
+2022-08-11,Bermuda,Good,11
+2022-08-11,Brunei,Good,12
+2022-08-11,Cambodia,Good,15
+2022-08-11,Cayman Islands,Good,6
+2022-08-11,French Guiana,Good,13
+2022-08-11,Grenada,Good,16
+2022-08-11,Guam,Good,1
+2022-08-11,Honduras,Good,22
+2022-08-11,Puerto Rico,Good,8
+2022-08-11,Venezuela,Good,5
+2022-08-12,Bermuda,Good,10
+2022-08-12,Brunei,Good,16
+2022-08-12,Cambodia,Good,15
+2022-08-12,Cayman Islands,Good,4
+2022-08-12,French Guiana,Good,13
+2022-08-12,Grenada,Good,10
+2022-08-12,Guam,Good,1
+2022-08-12,Honduras,Good,13
+2022-08-12,Puerto Rico,Good,12
+2022-08-12,Venezuela,Good,1
+2022-08-13,Bermuda,Good,3
+2022-08-13,Brunei,Good,10
+2022-08-13,Cambodia,Good,15
+2022-08-13,Cayman Islands,Good,3
+2022-08-13,French Guiana,Good,17
+2022-08-13,Grenada,Good,24
+2022-08-13,Guam,Good,1
+2022-08-13,Honduras,Good,22
+2022-08-13,Puerto Rico,Good,4
+2022-08-13,Venezuela,Good,4
+2022-08-14,Bermuda,Good,4
+2022-08-14,Brunei,Good,11
+2022-08-14,Cambodia,Good,15
+2022-08-14,Cayman Islands,Good,1
+2022-08-14,French Guiana,Good,17
+2022-08-14,Grenada,Good,13
+2022-08-14,Guam,Good,1
+2022-08-14,Honduras,Good,3
+2022-08-14,Puerto Rico,Good,11
+2022-08-14,Venezuela,Good,10
+2022-08-15,Bermuda,Good,6
+2022-08-15,Brunei,Good,14
+2022-08-15,Cambodia,Good,15
+2022-08-15,Cayman Islands,Good,6
+2022-08-15,French Guiana,Good,15
+2022-08-15,Grenada,Good,1
+2022-08-15,Guam,Good,5
+2022-08-15,Honduras,Good,7
+2022-08-15,Puerto Rico,Good,5
+2022-08-15,Venezuela,Good,10
+2022-08-16,Bermuda,Good,8
+2022-08-16,Brunei,Good,11
+2022-08-16,Cambodia,Good,15
+2022-08-16,Cayman Islands,Good,10
+2022-08-16,French Guiana,Good,18
+2022-08-16,Grenada,Good,19
+2022-08-16,Guam,Good,4
+2022-08-16,Honduras,Good,36
+2022-08-16,Puerto Rico,Good,17
+2022-08-16,Venezuela,Good,5
+2022-08-17,Bermuda,Good,11
+2022-08-17,Brunei,Good,10
+2022-08-17,Cambodia,Good,15
+2022-08-17,Cayman Islands,Good,1
+2022-08-17,French Guiana,Good,21
+2022-08-17,Grenada,Good,15
+2022-08-17,Guam,Good,5
+2022-08-17,Honduras,Good,8
+2022-08-17,Puerto Rico,Good,17
+2022-08-17,Venezuela,Good,11
+2022-08-18,Bermuda,Good,9
+2022-08-18,Brunei,Good,15
+2022-08-18,Cambodia,Good,15
+2022-08-18,Cayman Islands,Good,14
+2022-08-18,French Guiana,Good,24
+2022-08-18,Grenada,Good,2
+2022-08-18,Guam,Good,2
+2022-08-18,Honduras,Good,7
+2022-08-18,Puerto Rico,Good,12
+2022-08-18,Venezuela,Good,2
+2022-08-19,Bermuda,Good,6
+2022-08-19,Brunei,Good,11
+2022-08-19,Cambodia,Good,15
+2022-08-19,Cayman Islands,Good,5
+2022-08-19,French Guiana,Good,16
+2022-08-19,Grenada,Good,5
+2022-08-19,Guam,Good,5
+2022-08-19,Honduras,Good,12
+2022-08-19,Puerto Rico,Good,7
+2022-08-19,Venezuela,Good,11
+2022-08-20,Bermuda,Good,4
+2022-08-20,Brunei,Good,12
+2022-08-20,Cambodia,Good,15
+2022-08-20,Cayman Islands,Good,2
+2022-08-20,French Guiana,Good,16
+2022-08-20,Grenada,Good,10
+2022-08-20,Guam,Good,1
+2022-08-20,Honduras,Good,11
+2022-08-20,Puerto Rico,Good,3
+2022-08-20,Venezuela,Good,20
+2022-08-21,Bermuda,Good,3
+2022-08-21,Brunei,Good,10
+2022-08-21,Cambodia,Good,15
+2022-08-21,Cayman Islands,Good,1
+2022-08-21,French Guiana,Good,16
+2022-08-21,Grenada,Good,7
+2022-08-21,Guam,Good,4
+2022-08-21,Honduras,Good,4
+2022-08-21,Puerto Rico,Good,5
+2022-08-21,Venezuela,Good,9
+2022-08-22,Bermuda,Good,9
+2022-08-22,Brunei,Good,10
+2022-08-22,Cambodia,Good,15
+2022-08-22,Cayman Islands,Good,1
+2022-08-22,French Guiana,Good,16
+2022-08-22,Grenada,Good,5
+2022-08-22,Guam,Good,1
+2022-08-22,Honduras,Good,8
+2022-08-22,Puerto Rico,Good,4
+2022-08-22,Venezuela,Good,4
+2022-08-23,Bermuda,Moderate,61
+2022-08-23,Brunei,Good,10
+2022-08-23,Cambodia,Good,15
+2022-08-23,Cayman Islands,Good,1
+2022-08-23,French Guiana,Good,16
+2022-08-23,Grenada,Good,9
+2022-08-23,Guam,Good,3
+2022-08-23,Honduras,Good,4
+2022-08-23,Puerto Rico,Good,11
+2022-08-23,Venezuela,Good,26
+2022-08-23,Bermuda,Good,5
+2022-08-23,Brunei,Good,10
+2022-08-23,Cambodia,Good,15
+2022-08-23,Cayman Islands,Good,1
+2022-08-23,French Guiana,Good,21
+2022-08-23,Grenada,Good,5
+2022-08-23,Guam,Good,1
+2022-08-23,Honduras,Good,20
+2022-08-23,Puerto Rico,Good,9
+2022-08-23,Venezuela,Good,25
+2022-08-24,Bermuda,Good,8
+2022-08-24,Brunei,Good,10
+2022-08-24,Cambodia,Good,15
+2022-08-24,Cayman Islands,Good,1
+2022-08-24,French Guiana,Good,17
+2022-08-24,Grenada,Good,1
+2022-08-24,Guam,Good,4
+2022-08-24,Honduras,Good,10
+2022-08-24,Puerto Rico,Good,2
+2022-08-24,Venezuela,Good,40
+2022-08-25,Bermuda,Good,6
+2022-08-25,Brunei,Good,10
+2022-08-25,Cambodia,Good,15
+2022-08-25,Cayman Islands,Good,1
+2022-08-25,French Guiana,Good,14
+2022-08-25,Grenada,Good,5
+2022-08-25,Guam,Good,3
+2022-08-25,Honduras,Good,10
+2022-08-25,Puerto Rico,Good,2
+2022-08-25,Venezuela,Good,19
+2022-08-26,Bermuda,Good,2
+2022-08-26,Brunei,Good,10
+2022-08-26,Cambodia,Good,15
+2022-08-26,Cayman Islands,Good,1
+2022-08-26,French Guiana,Good,14
+2022-08-26,Grenada,Good,6
+2022-08-26,Guam,Good,1
+2022-08-26,Honduras,Good,27
+2022-08-26,Puerto Rico,Good,2
+2022-08-26,Venezuela,Good,2
+2022-08-27,Bermuda,Good,3
+2022-08-27,Brunei,Good,12
+2022-08-27,Cambodia,Good,15
+2022-08-27,Cayman Islands,Good,1
+2022-08-27,French Guiana,Good,12
+2022-08-27,Grenada,Good,3
+2022-08-27,Guam,Good,14
+2022-08-27,Honduras,Good,22
+2022-08-27,Puerto Rico,Good,8
+2022-08-27,Venezuela,Good,23
+2022-08-28,Bermuda,Good,5
+2022-08-28,Brunei,Good,10
+2022-08-28,Cambodia,Good,15
+2022-08-28,Cayman Islands,Good,6
+2022-08-28,French Guiana,Good,19
+2022-08-28,Grenada,Good,1
+2022-08-28,Guam,Good,1
+2022-08-28,Honduras,Good,5
+2022-08-28,Puerto Rico,Good,10
+2022-08-28,Venezuela,Good,10
+2022-08-29,Bermuda,Good,4
+2022-08-29,Brunei,Good,10
+2022-08-29,Cambodia,Good,15
+2022-08-29,Cayman Islands,Good,2
+2022-08-29,French Guiana,Good,26
+2022-08-29,Grenada,Good,6
+2022-08-29,Guam,Good,1
+2022-08-29,Honduras,Good,30
+2022-08-29,Puerto Rico,Good,6
+2022-08-29,Venezuela,Good,5
+2022-08-30,Bermuda,Good,3
+2022-08-30,Brunei,Good,10
+2022-08-30,Cambodia,Good,15
+2022-08-30,French Guiana,Good,26
+2022-08-30,Grenada,Good,38
+2022-08-30,Guam,Good,1
+2022-08-30,Honduras,Good,21
+2022-08-30,Puerto Rico,Good,21
+2022-08-30,Venezuela,Good,2
+2022-08-31,Bermuda,Good,4
+2022-08-31,Brunei,Good,10
+2022-08-31,Cambodia,Good,15
+2022-08-31,Cayman Islands,Good,1
+2022-08-31,French Guiana,Good,24
+2022-08-31,Grenada,Good,22
+2022-08-31,Guam,Good,4
+2022-08-31,Honduras,Good,24
+2022-08-31,Puerto Rico,Good,15
+2022-08-31,Venezuela,Good,17
