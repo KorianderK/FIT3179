@@ -82,6 +82,6 @@
       ]
     },
     "layer": [
-      {"mark": {"type": "line", "size": 4, "opacity": 0.6, "point": true}}
+      {"mark": {"type": "line", "size": 2, "opacity": 0.6, "point": true}}
     ]
   }
