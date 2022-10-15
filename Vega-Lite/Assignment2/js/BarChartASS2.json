@@ -41,24 +41,31 @@
   },
   "layer": [
     {
-      "mark": {"type": "bar"},
+      "mark": {"type": "bar", "size":3},
       "encoding": {
         "color": {
           "value": "lightblue"
-        }
+        },
+          "tooltip": [
+            {"field": "Country"},
+            {"field": "Total_AQI"}
+        ] 
       }
     },
     {
-      "mark": {"type": "text", "align": "right", "xOffset": 26, "aria": false},
+      "mark": {"type": "circle", "align": "right", "aria": false, "size": 50},
       "encoding": {
-        "text": {
+        "color": {
+          "value": "lightblue"}
+      }
+    },
+    {
+      "mark": {"type": "text", "align": "right", "aria": false, "size": 10, "xOffset": 28},
+      "encoding": {
+        "text":{
           "field": "Total_AQI",
           "type": "quantitative"
-        },
-        "tooltip": [
-          {"field": "Country"},
-          {"field": "Total_AQI"}
-        ]
+        }     
       }
     }
   ]
