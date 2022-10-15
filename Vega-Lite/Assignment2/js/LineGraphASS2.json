@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 700,
+    "width": 600,
     "height": 400,
     "padding": 10,
     "title": "Daily AQI Values for Top 10 worst Countries -August 2022",
