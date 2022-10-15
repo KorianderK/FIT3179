@@ -4,6 +4,8 @@
   "width": 800,
   "height": 400,
   "padding": 10,
+  "background": "black",
+  "view": {"fill": "black"},
   "data": {
     "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Assignment2/data/AQITop10BestWorst.csv"
   },
