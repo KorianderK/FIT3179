@@ -4,8 +4,8 @@
     "height": 400,
     "padding": 10,
     "title": "Daily AQI Values for Top 10 best Countries -August 2022",
-    "background": "lightblue",
-    "view": {"fill": "lightblue"},
+    "background": "#dbb9d2",
+    "view": {"fill": "white"},
     "config": {"view": {"stroke": "black"}},
     "data": {"url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Assignment2/data/AQITop10Best.csv"},
     "params": [
