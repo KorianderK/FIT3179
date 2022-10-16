@@ -57,9 +57,9 @@
           "title": "Legend",
           "type": "quantitative",
           "scale": {
-            "domain": [500,4000,8000],
+            "domain": [1000,4000,8000],
             "type": "linear",
-            "scheme": "lighttealblue",
+            "scheme": "redpurple",
             "reverse": false
           }
         },
