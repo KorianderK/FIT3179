@@ -6,6 +6,7 @@
   "padding": 10,
   "background": "lightblue",
   "view": {"fill": "lightblue"},
+  "config": {"view": {"stroke": null}},
   "data": {
     "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Assignment2/data/AQITop10BestWorst.csv"
   },
@@ -13,11 +14,13 @@
     "x": {
       "field": "Total_AQI",
       "type": "quantitative",
-      "title": "Total AQI"
+      "title": "Total AQI",
+      "axis": {"domain": false, "grid": false, "ticks": false}
     },
     "y": {
       "field": "Country",
       "type": "nominal",
+      "axis": {"domain": false, "grid": false, "ticks": false},
       "sort": [
             "Iraq",
             "India",
