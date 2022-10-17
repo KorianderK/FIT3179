@@ -5,7 +5,7 @@
   "height": 418,
   "padding": 10,
   "background": "#dbb9d2",
-  "view": {"fill": "white"},
+  "view": {"fill": "#dbb9d2"},
   "config": {"view": {"stroke": "black"}},
   "data": {
     "url": "https://raw.githubusercontent.com/KorianderK/FIT3179/main/Vega-Lite/Assignment2/data/AQITop10BestWorst.csv"
