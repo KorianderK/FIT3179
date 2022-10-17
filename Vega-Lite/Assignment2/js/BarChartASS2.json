@@ -54,7 +54,7 @@
         },
           "tooltip": [
             {"field": "Country"},
-            {"field": "Total_AQI"}
+            {"field": "Total_AQI", "title": "Total AQI"}
         ] 
       }
     },
